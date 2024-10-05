@@ -1,0 +1,3 @@
+com\techgeeknext\basicsecurity\controller\HelloController.class
+com\techgeeknext\basicsecurity\config\WebSecurityConfiguration.class
+com\techgeeknext\basicsecurity\BasicsecurityApplication.class

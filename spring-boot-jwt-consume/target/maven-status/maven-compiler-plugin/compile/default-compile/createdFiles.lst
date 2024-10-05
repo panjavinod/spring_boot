@@ -1,0 +1,5 @@
+com\javainuse\model\User.class
+com\javainuse\SpringBootJwtConsumeApplication.class
+com\javainuse\model\RegistrationUser.class
+com\javainuse\model\ResponseToken.class
+com\javainuse\controller\TestController.class
